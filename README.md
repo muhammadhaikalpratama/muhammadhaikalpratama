@@ -14,10 +14,10 @@
 - Fun fact **I think I am funny**
 
 <p>
-![muhammadhaikalpratama's Stats](https://github-readme-stats.vercel.app/api?username=muhammadhaikalpratama&theme=graywhite&show_icons=true&hide_border=false&count_private=true)
+[muhammadhaikalpratama's Stats](https://github-readme-stats.vercel.app/api?username=muhammadhaikalpratama&theme=graywhite&show_icons=true&hide_border=false&count_private=true)
 </p>
 <p>
-  ![muhammadhaikalpratama's Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadhaikalpratama&theme=graywhite&hide_border=false)
+[muhammadhaikalpratama's Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadhaikalpratama&theme=graywhite&hide_border=false)
 </p>
 
 <h3 align="left">Connect with me:</h3>
