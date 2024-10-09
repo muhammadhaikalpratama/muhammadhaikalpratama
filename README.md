@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadhaikalpratama&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadhaikalpratama" /> </p>
 
-- currently having Project on [PKL on Aranus Technology](https://github.com/paley777/aranus-pkl-smkn1)
+- currently interning at [Aranus Technology](https://aranustech.co.id)
 
 - Im still Learning **Laravel and Tailwindcss**
 
