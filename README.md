@@ -1,6 +1,10 @@
 <h1 align="center">Hey👋, I am Haikal</h1>
 <h3 align="center">An aspiring frontend developer from Indonesia.</h3>
 
+<p>
+  <img class="center" src="https://github-readme-stats.vercel.app/api?username=muhammadhaikalpratama&show_icons=true&theme=gotham" alt="stats" />
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadhaikalpratama&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadhaikalpratama" /> </p>
 
 - currently interning at [Aranus Technology](https://aranustech.co.id)
